@@ -1,3 +1,6 @@
+# Note: Rust support is now available directly in AWS Lambda.  Therefore, this respository is archived.
+
+
 # Rusty Lambda: A skeleton Rust application for AWS Lambda
 
 ## Overview
